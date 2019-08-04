@@ -1,2 +1,0 @@
-"# estudo" 
-Comando PULL
